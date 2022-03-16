@@ -40,23 +40,3 @@ int main(void) {
   
   return 0;
 }
-/*
-int main(){
-
- char str[]={"Oi 1234"};
-
-int i=0;
-while(str[i] != '\0'){
-  if(str[i] >= '0' && str[i] <=9){
-    contem_numeros=1;
-    break;
-  }
-  i++
-}
-if(contem_numeros){
-  printf("'%s' contem numeros!\n" , str;)
-  }
-  return 0;
-  
-
-  } */
